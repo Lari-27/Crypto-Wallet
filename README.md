@@ -1,24 +1,14 @@
-# README
+# Crypto Wallet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 📋 Descrição
+Aplicação Ruby on Rails para cadastrar e acompanhar Criptomoedas. 
+O projeto faz uso do Ruby on Rails, uma framework web Ruby de alto nível, conhecido por sua simplicidade e produtividade.
+A aplicação também incorpora conceitos relacionados a bancos de dados. 
 
-Things you may want to cover:
+## 💻 Versões utilizadas
 
-* Ruby version
+* Ruby version -> 3.0.2
+* Rails version -> 7.1.2
+* Banco de Dados -> SQLlite 
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

@@ -9,6 +9,6 @@ A aplicação também incorpora conceitos relacionados a bancos de dados.
 
 * Ruby version -> 3.0.2
 * Rails version -> 7.1.2
-* Banco de Dados -> SQLlite 
+* Banco de Dados -> SQLite version 3.37.2
 
 
